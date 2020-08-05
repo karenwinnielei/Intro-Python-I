@@ -1,0 +1,1 @@
+Hello, I am learning Python and it is pretty interesting so far. This is day 2 of CS intro to Python and this is the second half of the project.
